@@ -1,0 +1,4 @@
+org/apache/drill/exec/store/log/LogRecordReader$ColumnDefn.class
+org/apache/drill/exec/store/log/LogFormatPlugin.class
+org/apache/drill/exec/store/log/LogRecordReader.class
+org/apache/drill/exec/store/log/LogFormatConfig.class
